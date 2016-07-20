@@ -1,0 +1,1 @@
+Since I cannot use CMake to generate Visual Studio Android Projects that run .so shared library on Android, I have to manually add all the .cpp to this folder. And create a Cross-platform Library solution using Visual Studio.
